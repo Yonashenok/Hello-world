@@ -1,3 +1,5 @@
 # Hello-world
-The my first project
-I love bureger, pizza and chips
+
+ My first project
+
+I love :car::dog:,and :pizza:.
